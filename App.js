@@ -50,7 +50,7 @@ const draw = createDrawerNavigator(
 )
 tabs in stack
 stack in draw
-https://github.com/sankalpreddy1998 
+https://github.com/Arunselvan-AS 
 */
 const AppContainer = createAppContainer(draw);
 
